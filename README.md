@@ -1,6 +1,6 @@
 # Split Landing Page Project
 
-This project shows split screen background images, each with overlays. When hovering the mouse on one side of the split screen, it expands to 75% while the other side reduces to 25%.
+This project shows split-screen background images, each with overlays. When hovering the mouse on one side of the split screen, it expands to 75% while the other side reduces to 25%.
 
 The background images are cupcakes from my favorite cupcake bakery, Sprinkles. They show the limited-time cupcakes for early March, 2022.
 
